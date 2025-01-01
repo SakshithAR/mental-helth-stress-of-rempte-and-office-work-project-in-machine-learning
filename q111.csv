@@ -1,0 +1,801 @@
+Response ID,Have you ever experienced working from home?,Do you think that working from home increases your work productivity?,Do you think that working from home prevents you from going out?,Do you think that working from home gives you more flexibility?,Do you think that working from home saves you more time?,"Which work type has the potential to cause you physical problems, such as the neck, back, and leg pain?","Which work type has the potential to cause mental disorders, such as stress, anxiety, and depression?",Do you think that working from home prevents you from getting in contact with people?,Which work type keeps you focused while working?,Which work type do you prefer the most?
+1.0,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+2.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+3.0,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+4.0,Yes,Yes,No,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+5.0,Yes,No,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,Working in an office
+6.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+7.0,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+8.0,No,Yes,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working from home
+9.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+10.0,No,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+11.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+12.0,Yes,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+13.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+14.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+15.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+16.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+17.0,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+18.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+19.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+20.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+21.0,Yes,No,No,Yes,No,Working from home,Working in an office,No,Working from home,Working in an office
+22.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+23.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+24.0,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,No,Working in an office,Working in an office
+25.0,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working from home,A mixed mode of working
+26.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+27.0,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+28.0,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+29.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+30.0,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+31.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+32.0,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+33.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+34.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+35.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+36.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+37.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+38.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+39.0,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+40.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+41.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+42.0,Yes,No,No,Yes,Yes,Working from home,Working in an office,No,Working from home,A mixed mode of working
+43.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+44.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+45.0,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+46.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+47.0,No,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+48.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+49.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+50.0,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+51.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+52.0,Yes,No,No,Yes,Yes,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+53.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+54.0,No,No,No,Yes,No,Working in an office,Working in an office,No,Working from home,Working from home
+55.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+56.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+57.0,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+58.0,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,A mixed mode of working
+59.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+60.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+61.0,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+62.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+63.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+64.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+65.0,Yes,No,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,A mixed mode of working
+66.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+67.0,No,No,No,Yes,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+68.0,No,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+69.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+70.0,No,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+71.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+72.0,Yes,No,No,Yes,Yes,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+73.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+74.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+75.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+76.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+77.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+78.0,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,Working from home
+79.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+80.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+81.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+82.0,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+83.0,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+84.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+85.0,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+86.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+87.0,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+88.0,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+89.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+90.0,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+91.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+92.0,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working from home,A mixed mode of working
+93.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+94.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+95.0,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,No,Working in an office,Working from home
+96.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+97.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+98.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+99.0,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+100.0,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+101.0,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+102.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+103.0,Yes,No,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+104.0,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working from home
+105.0,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+106.0,Yes,No,Yes,Yes,Yes,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+107.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+108.0,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+109.0,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+110.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+111.0,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+112.0,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working from home
+113.0,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+114.0,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+115.0,Yes,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+116.0,No,No,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+117.0,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+118.0,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+119.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+120.0,Yes,No,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,Working from home
+121.0,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+122.0,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+123.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+124.0,No,No,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+125.0,Yes,Yes,No,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+126.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+127.0,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,A mixed mode of working
+128.0,Yes,Yes,No,Yes,No,Working from home,Working in an office,No,Working from home,A mixed mode of working
+129.0,No,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+130.0,No,No,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+131.0,Yes,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working in an office
+132.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+133.0,No,No,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,Working in an office
+134.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+135.0,No,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+136.0,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+137.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+138.0,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working from home,Working in an office
+139.0,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working in an office
+140.0,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+141.0,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+142.0,No,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+143.0,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+144.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+145.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+146.0,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+147.0,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working from home
+148.0,No,No,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+149.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+150.0,Yes,Yes,No,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+151.0,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+152.0,No,Yes,No,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+153.0,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+154.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+155.0,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+156.0,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+157.0,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+158.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+159.0,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+160.0,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+161.0,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+162.0,No,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+163.0,No,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+164.0,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+165.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+166.0,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+167.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,A mixed mode of working
+168.0,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+169.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+170.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+171.0,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working from home,Working in an office
+172.0,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+173.0,Yes,No,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+174.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+175.0,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+176.0,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+177.0,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+178.0,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+179.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+180.0,No,No,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+181.0,Yes,No,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,A mixed mode of working
+182.0,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+183.0,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+184.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+185.0,Yes,Yes,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working from home
+186.0,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+187.0,No,No,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+188.0,No,No,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+189.0,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+190.0,No,No,No,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working in an office
+191.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+192.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+193.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+194.0,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working from home,Working from home
+195.0,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+196.0,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+197.0,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+198.0,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+199.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working from home,Working in an office
+200.0,Yes,Yes,No,Yes,Yes,Working in an office,Working from home,No,Working from home,Working from home
+201.0,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+202.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+203.0,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+204.0,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+205.0,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+206.0,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,No,Working from home,Working in an office
+207.0,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+208.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+209.0,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+210.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+211.0,No,No,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+212.0,No,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working in an office
+213.0,No,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+214.0,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+215.0,No,No,Yes,Yes,Yes,Working in an office,Working from home,No,Working from home,Working in an office
+216.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+217.0,No,Yes,No,Yes,Yes,Working from home,Working from home,No,Working from home,A mixed mode of working
+218.0,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working from home,Working from home
+219.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+220.0,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+221.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+222.0,Yes,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+223.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+224.0,No,No,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+225.0,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,Working from home
+226.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+227.0,No,No,Yes,Yes,Yes,Working from home,Working in an office,No,Working from home,A mixed mode of working
+228.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+229.0,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+230.0,Yes,No,Yes,Yes,Yes,Working in an office,Working from home,No,Working from home,A mixed mode of working
+231.0,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working in an office
+232.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+233.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+234.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+235.0,No,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+236.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+237.0,No,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working from home,Working from home
+238.0,Yes,Yes,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+239.0,No,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+240.0,Yes,No,No,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+241.0,No,No,Yes,Yes,Yes,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+242.0,No,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+243.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+244.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+245.0,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+246.0,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+247.0,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+248.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+249.0,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+250.0,No,No,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,Working from home
+251.0,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+252.0,No,No,Yes,Yes,No,Working from home,Working in an office,No,Working from home,Working from home
+253.0,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+254.0,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working from home
+255.0,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+256.0,Yes,No,No,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+257.0,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+258.0,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+259.0,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+260.0,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+261.0,No,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working in an office
+262.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+263.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+264.0,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,Working from home
+265.0,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+266.0,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working from home
+267.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+268.0,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working from home,Working from home
+269.0,Yes,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+270.0,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+271.0,No,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+272.0,Yes,Yes,No,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+273.0,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+274.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+275.0,No,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+276.0,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+277.0,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+278.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+279.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+280.0,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+281.0,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+282.0,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+283.0,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+284.0,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+285.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,Working from home
+286.0,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+287.0,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+288.0,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+289.0,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+290.0,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+291.0,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+292.0,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+293.0,No,No,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+294.0,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+295.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+296.0,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+297.0,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+298.0,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+299.0,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+300.0,No,No,No,Yes,Yes,Working from home,Working from home,No,Working in an office,Working in an office
+67.09090488457451,No,No,No,Yes,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+59.96873053675906,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+57.00186193209383,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+131.21780108748897,Yes,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working in an office
+237.3427397440966,No,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working from home,Working from home
+27.05876696658144,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+6.557169858126867,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+225.29362384135104,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,Working from home
+48.43651538577158,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+114.56841788618976,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+250.1463604881125,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+24.50419789187227,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,No,Working in an office,Working in an office
+283.0830618241305,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+95.85770143894182,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+55.46798704554803,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+99.77816774167536,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+20.6796851593101,Yes,No,No,Yes,No,Working from home,Working in an office,No,Working from home,Working in an office
+48.181475028482254,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+226.96845634510208,No,No,Yes,Yes,Yes,Working from home,Working in an office,No,Working from home,A mixed mode of working
+74.22290448906509,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+222.564710392664,Yes,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+151.1474447558351,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+134.88981202372995,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+54.68884712803396,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+254.48453476342252,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+210.86008951360589,No,No,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+159.78091259586796,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+230.93270614939215,Yes,No,Yes,Yes,Yes,Working in an office,Working from home,No,Working from home,A mixed mode of working
+246.97398960837216,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+299.4900783138619,No,No,No,Yes,Yes,Working from home,Working from home,No,Working in an office,Working in an office
+76.69865720462553,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+128.123617762611,No,No,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+231.26159574298617,Yes,No,Yes,Yes,Yes,Working in an office,Working from home,No,Working from home,A mixed mode of working
+256.4732622821446,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+282.3910776600032,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+247.96295795381968,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+51.63192252824794,Yes,No,No,Yes,Yes,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+33.94826361831356,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+128.94681304864298,No,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+128.6765943910086,No,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+258.64273608030766,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+163.86782836312622,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+234.77402034899083,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+209.39711430424128,No,No,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+273.5728785860689,Yes,Yes,No,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+19.093048619019278,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+182.51469084281277,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+271.7653828997548,No,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+282.81107545635666,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+275.7471520001976,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+283.03540833309347,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+249.7479309443303,No,No,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,Working from home
+101.25566628643635,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+152.47633015149134,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+18.95087955197526,Yes,No,No,Yes,No,Working from home,Working in an office,No,Working from home,Working in an office
+87.33318482085545,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+191.39425400107982,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+128.0072059535736,Yes,Yes,No,Yes,No,Working from home,Working in an office,No,Working from home,A mixed mode of working
+202.08583249512122,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+225.82259413341333,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+218.88240372258036,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working from home,Working from home
+288.0359993514641,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+28.942885085062574,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+269.9171568883103,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+295.3463237410654,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+110.46176451129554,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+156.61385090052576,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+240.83231067085902,Yes,No,No,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+129.06199080798993,No,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+296.2176516754537,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+135.0693123375045,No,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+104.01120122714468,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+204.28954777582732,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+19.957564134937723,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+210.22818202521154,No,No,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+269.95793613720195,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+82.15450395667446,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+101.2209441143204,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+158.75991835837402,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+282.52088659988425,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+26.05006465590489,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working from home,A mixed mode of working
+42.29368417733313,Yes,No,No,Yes,Yes,Working from home,Working in an office,No,Working from home,A mixed mode of working
+103.54062842452421,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working from home
+181.8695528840423,Yes,No,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,A mixed mode of working
+33.493650137972054,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+102.37454511669705,Yes,No,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+170.7713792658659,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working from home,Working in an office
+231.02339654713276,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+91.51036294338778,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+37.57162413354067,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+219.0039912877283,Yes,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+88.22461164365029,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+283.1529600514294,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,Working from home
+77.21914881731466,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+184.26751205449304,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+70.29694518337385,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+232.20987998449985,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+289.1892271869548,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+143.93760847536393,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+157.29013722844098,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+82.34553704450562,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+280.14793666578373,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+204.37832186895977,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+259.18182221002326,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+77.97511931514765,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+194.60984643983318,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+130.84777076796857,No,No,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+111.69485941122305,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working from home
+168.41572839826944,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+63.24346599480066,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+250.03193435364255,No,No,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,Working from home
+106.16792757242577,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+81.70367679054635,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+77.2811329225619,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+238.16869230197287,No,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+300.2854218334861,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+295.9980978808348,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+186.9731181094041,No,No,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+169.0331114988995,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+83.03754023119815,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+18.410617619148628,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+36.65546516037977,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+32.16373251500586,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+174.91743581946602,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+203.4675212802023,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+187.38454558950838,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+184.31641171031518,Yes,Yes,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working from home
+61.1451002006183,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+215.45671252786934,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+64.5753076300944,Yes,No,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,A mixed mode of working
+183.1801817647327,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+25.863419244842593,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working from home,A mixed mode of working
+24.07009027252697,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,No,Working in an office,Working in an office
+250.51710095711138,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+42.45801623360398,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+163.86809293750747,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+239.23926615905316,Yes,No,No,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+247.11291611069612,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+170.44664888885424,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+34.85056401173977,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+71.2148373997047,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+100.16355738725649,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+60.747111591998596,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+279.3041737457548,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+10.113619322120758,No,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+2.7165988482782337,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+72.4998709164084,Yes,No,No,Yes,Yes,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+153.22012119715438,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+214.89294651180447,No,No,Yes,Yes,Yes,Working in an office,Working from home,No,Working from home,Working in an office
+96.55872981399406,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+220.18233493702914,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+19.42350730107563,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+176.28472883494047,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+7.211577507234799,Yes,No,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,Working in an office
+204.9608745573516,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+37.45203653602656,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+238.43901740656707,Yes,No,No,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+52.79979561670098,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+250.89583727034136,No,No,Yes,Yes,No,Working from home,Working in an office,No,Working from home,Working from home
+41.26293691817716,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+189.19407530396876,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+109.59107663360707,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+260.93489657130243,No,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working in an office
+281.53998859648874,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+41.999216858077546,Yes,No,No,Yes,Yes,Working from home,Working in an office,No,Working from home,A mixed mode of working
+234.6357734283679,No,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+74.82335466081146,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+17.398705289774846,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+166.47297744757378,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+134.33010115425043,No,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+147.07720888786764,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+156.56687944431957,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+280.9477130798221,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+167.68780146379171,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+22.330409154649747,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+264.2385220684415,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+84.44196980788878,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+224.79775093702466,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+263.16536961565066,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,Working from home
+65.08734619381796,Yes,No,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,A mixed mode of working
+149.78943352230303,Yes,Yes,No,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+14.59835726059859,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+48.65482948292839,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+220.39222414095664,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+244.58068996396224,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+129.1053906840137,No,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+291.7477587717704,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+123.2747267607241,No,No,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+221.9786369336434,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+246.0262285178665,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+5.756368935653445,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+10.932381389715486,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+188.14695857958588,No,No,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+127.09706747648701,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,A mixed mode of working
+185.41927967958173,Yes,Yes,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working from home
+5.918093053594054,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+220.46315688098932,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+160.1320920159358,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+34.41410499686632,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+186.49182921034205,No,No,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+201.57224410094207,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+77.40447372013026,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,Working from home
+122.1285839846417,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+11.91081586499196,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+47.048073807720904,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+243.76337977863113,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+63.179025304161065,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+87.60943709580111,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+159.56621265439705,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+59.12001265118341,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,A mixed mode of working
+136.8199054614865,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working from home,Working in an office
+124.55538073594323,No,No,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+241.9694604007567,No,No,Yes,Yes,Yes,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+93.68677026636215,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+118.77598661678643,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+32.12829503121696,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+266.9124857255618,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working from home
+77.61998418614536,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+163.47639847586476,No,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+6.580079532589618,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+4.674586713310403,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+297.990850197996,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+159.1628626921866,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+28.22740343808213,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+95.89496505642444,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+5.77971226076769,No,Yes,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working from home
+142.53303447412108,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+79.17164417084496,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+183.77186385720603,Yes,Yes,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working from home
+163.36057420350735,No,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+241.88688820117844,No,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+21.72662732845192,Yes,No,No,Yes,No,Working from home,Working in an office,No,Working from home,Working in an office
+217.00530276591627,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+167.4125900621392,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+190.63714057343873,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+161.94145922147825,No,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+15.976824825961927,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+140.07303971122224,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+71.90649112844615,No,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+51.468717444394876,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+242.83528744887303,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+145.33119182975798,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working from home
+262.88641189181874,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+9.371963005788293,No,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+137.36381062176096,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working from home,Working in an office
+66.64058741374019,No,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+165.59879013156564,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+184.08395374852543,Yes,Yes,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working from home
+1.8477124701455492,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+3.394250684440782,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+247.1411741150575,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+259.3901048662957,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+67.1143208986637,No,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+65.25475312040703,Yes,No,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,A mixed mode of working
+217.24528281906024,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working from home,Working from home
+73.1904815584467,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+114.44148038115776,Yes,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+93.4446639408208,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+112.40005751243383,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working from home
+115.51932205124135,Yes,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+285.0694529341191,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+93.57767465846113,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+211.20485657618053,No,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working in an office
+158.19511427998899,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+67.66175935793353,No,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+218.8748641030354,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+142.17139601754357,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+27.352683553466047,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+264.6300367775904,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+100.73310151345122,Yes,No,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+91.69023503739699,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+235.8862525083546,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+202.03809393225183,Yes,Yes,No,Yes,Yes,Working in an office,Working from home,No,Working from home,Working from home
+58.004983409716665,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+149.78317003162243,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+8.464870578526536,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+127.29931692840897,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+76.92002590992884,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,Working from home
+256.9087543720225,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+32.38078049841638,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+176.69840388474321,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+242.3102395266345,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+81.31969114905513,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+9.19789717766271,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+6.167375840002994,Yes,No,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,Working in an office
+267.3469371160855,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+288.02353717397483,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+153.9975402282024,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+38.11413148406704,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+252.7440761428044,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+240.99364530944115,No,No,Yes,Yes,Yes,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+141.5945884123494,No,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+89.24949415037855,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+155.62848837088103,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+46.19902205626153,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+147.6952305144591,No,No,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+147.31801036269587,No,No,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+220.0298256577132,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+153.00084597580062,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+53.84527322350749,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+145.37102445778544,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+53.062093872170834,Yes,No,No,Yes,Yes,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+285.25726921924974,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+79.83235610894712,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+193.0981713677555,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working from home,Working from home
+249.57203764510126,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+45.35816551398186,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+10.448316846276146,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+238.8602364809586,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+264.0164580001139,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+200.13496134287084,Yes,Yes,No,Yes,Yes,Working in an office,Working from home,No,Working from home,Working from home
+36.267121132950635,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+246.4960194187263,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+76.66974068034172,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+141.82430832898888,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+232.66192053017176,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+24.96589758921643,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working from home,A mixed mode of working
+259.3627530783433,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+136.68992013795133,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working from home,Working in an office
+260.2281543700312,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+244.57922413466096,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+56.743774836189516,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,A mixed mode of working
+106.642071877996,Yes,No,Yes,Yes,Yes,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+224.46767491834024,No,No,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+107.10563312803667,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+242.53545738762094,No,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+83.35825716244162,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+22.88680421847972,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,No,Working in an office,Working in an office
+232.23367387083124,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working in an office
+270.50909014786026,No,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+87.96241219251638,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+190.12221842068945,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+15.599024878109587,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+258.1256445328908,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+249.89315910619337,No,No,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,Working from home
+249.7363494200519,No,No,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,Working from home
+128.00041025679806,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+49.50366320980002,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+120.85781992000435,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+84.94364908577444,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+163.03053975289419,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+87.99231140023578,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+165.90619747041075,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+268.58749570498884,Yes,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+90.56490101094961,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+85.79895564330191,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+288.9472287719924,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+62.79604476601531,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+124.12884024024055,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+9.686358522516427,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+134.14607507867913,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+53.5243886164928,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+193.04136469704298,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+250.59995034714217,No,No,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,Working from home
+279.3829077466471,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+31.590275897887643,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+265.7886887445683,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working from home,Working from home
+152.10996246815014,No,Yes,No,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+272.97658480989594,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+95.79692012123012,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+157.2503180717184,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+281.2279308095903,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+108.84293946883086,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+288.1083595581805,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+201.322607814981,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+270.8399031167035,No,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+255.82040172441617,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+130.88995545475618,Yes,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working in an office
+20.258407250764563,Yes,No,No,Yes,No,Working from home,Working in an office,No,Working from home,Working in an office
+260.3878271264157,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+132.0117679864834,No,No,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,Working in an office
+131.0747743996947,Yes,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working in an office
+156.59206373591022,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+277.2153789428347,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+152.98199531710915,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+185.66270735747747,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+203.1066588182345,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+261.6057010627338,No,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working in an office
+159.77211353989978,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+258.20343329636967,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+183.16382624702896,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+253.6781351226513,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+107.41038248317734,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+186.68517584624868,No,No,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+13.795353516467838,Yes,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+130.11454071240323,No,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+92.5849692719735,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+222.2505068314001,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+89.4607218857371,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+195.43628659592414,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+49.93680637937478,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+293.0088609005822,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+289.870424940342,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+48.06802714723948,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+194.5014396116456,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+74.63222231790277,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+111.9062532402492,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working from home
+207.86956679280732,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+66.66728725803168,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+222.7102377602856,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+231.3532426053452,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+177.0025762882994,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+185.24164355681506,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+215.07558120363856,No,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+34.15758751152872,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+207.72019125865341,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+32.56120798339455,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+116.6958517681063,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+63.24656936637507,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+256.5145984908956,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+117.87530530300312,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+277.0801473215486,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+104.71285462062392,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working from home
+261.5249713607722,No,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working in an office
+15.059980366139959,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+251.01882847428422,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+197.49619390372288,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+255.92550821269433,Yes,No,No,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+291.33829787036893,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+227.1732390622282,No,No,Yes,Yes,Yes,Working from home,Working in an office,No,Working from home,A mixed mode of working
+55.26315184053108,No,No,No,Yes,No,Working in an office,Working in an office,No,Working from home,Working from home
+74.87719167299669,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+112.29477572554627,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+232.11517781957969,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+150.79483753942284,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+138.62040227498403,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working in an office
+196.95036068892125,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+298.3343902928035,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+36.78914436102034,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+120.13465666438559,Yes,No,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,Working from home
+152.5437040812743,No,Yes,No,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+132.24651089620582,No,No,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,Working in an office
+139.4129338364954,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working in an office
+290.84115793365885,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+115.81193236237503,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+80.86328720129828,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+132.38960894290074,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+17.497213201726332,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+102.70882129500094,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+163.8210519476888,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+221.58482603890295,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+115.57580588795916,No,No,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+260.15202977537336,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+176.1302545340297,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+100.13703760861964,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+16.08303622254831,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+207.41019409754514,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+32.993115630502054,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+273.45284665194004,No,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+256.70151333389055,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+22.791994635427777,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+287.4528489094406,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+205.93929089276168,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+260.9209468430517,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+68.78133330005018,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+88.27220372799971,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+117.02581669992612,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+94.43849697549187,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+189.86307227386047,No,No,No,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working in an office
+49.64806363940576,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+109.47075562390954,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+195.48300000135265,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working from home,Working from home
+263.50830104562516,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,Working from home
+75.30704361252894,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+83.3065381284676,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+246.14084488842474,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+244.35841004072267,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+146.61115845334007,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+215.45749623650977,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+26.77871417438975,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+45.755679808065025,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+184.60896201249625,Yes,Yes,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working from home
+13.889340065195094,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+45.04049391347449,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+271.6085743953027,No,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+30.863058810775254,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+86.34898559014113,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+291.3598730592438,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+126.80174021207472,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,A mixed mode of working
+256.79133106093235,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+145.71325533380883,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+296.3019624097835,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+15.347602942744263,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+52.97432448818511,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+167.6615199865643,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,A mixed mode of working
+249.29282637234184,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+24.215290303453504,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,No,Working in an office,Working in an office
+12.100742201016992,Yes,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+38.589588565940716,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+81.60506009354447,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+102.11783613797954,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+259.1976082732676,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+125.38358214048758,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,A mixed mode of working
+84.95378453435477,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+244.6507976246053,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+196.8028342739005,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+201.59058676438508,Yes,Yes,No,Yes,Yes,Working in an office,Working from home,No,Working from home,Working from home
+248.08791943763515,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+268.4731389273134,Yes,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+63.72460490732201,Yes,No,No,Yes,Yes,Working in an office,Working in an office,No,Working from home,A mixed mode of working
